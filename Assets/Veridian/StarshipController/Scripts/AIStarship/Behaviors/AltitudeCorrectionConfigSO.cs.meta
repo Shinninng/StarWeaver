@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 35e99713135f05941a51499ba5bb323d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/Behaviors/AltitudeCorrectionConfigSO.cs
+  uploadId: 894644

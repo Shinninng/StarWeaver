@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: cf2d4d1402931ec4a95d2476ea56b0c7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/Combat/CombatManeuver.cs
+  uploadId: 894644

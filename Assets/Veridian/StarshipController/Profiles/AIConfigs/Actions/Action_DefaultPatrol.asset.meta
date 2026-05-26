@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08662e5ef8188e54189d39d6b7096841
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/AIConfigs/Actions/Action_DefaultPatrol.asset
+  uploadId: 894644

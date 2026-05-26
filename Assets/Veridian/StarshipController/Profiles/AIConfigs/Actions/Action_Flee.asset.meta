@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd8a546248b06dd48ad3f7e2c438da14
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/AIConfigs/Actions/Action_Flee.asset
+  uploadId: 894644

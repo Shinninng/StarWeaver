@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f92ab12bc2e3b84e94e005765e42344
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/WeaponConfigs/EnemyLaser.asset
+  uploadId: 894644

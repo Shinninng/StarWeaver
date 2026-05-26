@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 981715ae9dfa8934da3d4ba6801876a8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/AIConfigs/Behaviors/Config_TeamPatrol.asset
+  uploadId: 894644

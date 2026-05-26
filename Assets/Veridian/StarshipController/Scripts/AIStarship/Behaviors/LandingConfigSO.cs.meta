@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: dccdc7c17dfa1cd42b4e0666a81fd8d9
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/Behaviors/LandingConfigSO.cs
+  uploadId: 894644

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b49875c7313b7d74dac550d2df0aa9de
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Materials/Cutoff/T_Tree3_Imp.mat
+  uploadId: 894644

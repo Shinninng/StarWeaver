@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5748efa54db9244c9652548eed1ef9f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Scene/Demo_Starship_URP.unity
+  uploadId: 894644

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0ec6a508828bd9f4bafe263d2e25f50f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/Combat/InterceptionCalculator.cs
+  uploadId: 894644

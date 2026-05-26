@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 258e849b6778302418147e4ce3827c2e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/CyberMiningFactory_LOD0_Combined.mesh
+  uploadId: 894644

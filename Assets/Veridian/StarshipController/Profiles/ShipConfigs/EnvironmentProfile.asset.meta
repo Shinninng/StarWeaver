@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48742218d053dc3428b9f9798d99443f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/ShipConfigs/EnvironmentProfile.asset
+  uploadId: 894644

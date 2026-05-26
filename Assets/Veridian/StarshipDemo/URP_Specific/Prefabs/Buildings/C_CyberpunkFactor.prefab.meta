@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ff68ed3cdbbc644ca11e33370d89b90
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Buildings/C_CyberpunkFactor.prefab
+  uploadId: 894644

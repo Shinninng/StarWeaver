@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15e6f4aebf03b404490e5851026f7288
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/WeaponConfigs/FriendLaser.asset
+  uploadId: 894644

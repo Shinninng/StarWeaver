@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2218aa822d5d8c64da5c5de35a6dedb9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Nature/V_Budding_Flora.prefab
+  uploadId: 894644

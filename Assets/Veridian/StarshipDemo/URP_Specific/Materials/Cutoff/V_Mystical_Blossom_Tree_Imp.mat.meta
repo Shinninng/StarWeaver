@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98905ebd2359cdb428bbbea40ad5080d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Materials/Cutoff/V_Mystical_Blossom_Tree_Imp.mat
+  uploadId: 894644

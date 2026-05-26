@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a00710150438e934a84ab80082ffea1c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/ModularHouse_LOD0_Combined.mesh
+  uploadId: 894644

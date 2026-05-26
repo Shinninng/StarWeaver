@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7bd7aff890199a4da3fe1414cb6b497
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Materials/Simple/A_DarkRedMat.mat
+  uploadId: 894644

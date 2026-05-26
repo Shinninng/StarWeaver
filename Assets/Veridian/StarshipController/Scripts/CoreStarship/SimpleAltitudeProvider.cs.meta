@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a898eebd5d1f42c43b5ad1c035cf7304
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/CoreStarship/SimpleAltitudeProvider.cs
+  uploadId: 894644

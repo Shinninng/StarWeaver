@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d825322e2ba876e4188d40a182a6b0c6
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/PlayerStarship/Veridian.Starship.Player.asmdef
+  uploadId: 894644

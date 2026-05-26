@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 14a5bdc72cf4def4fa032ba9a875b90e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Terrain/TerrainLayers/MossyGrass01.terrainlayer
+  uploadId: 894644

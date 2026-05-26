@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 241c0fabf59b795418bb0aacf6ae146b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/DarkDome_LOD2_Combined.mesh
+  uploadId: 894644

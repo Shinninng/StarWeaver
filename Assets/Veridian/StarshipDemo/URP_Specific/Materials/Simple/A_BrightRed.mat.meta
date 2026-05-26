@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d0b1eaebae4e0d49a052a025dc499fa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Materials/Simple/A_BrightRed.mat
+  uploadId: 894644

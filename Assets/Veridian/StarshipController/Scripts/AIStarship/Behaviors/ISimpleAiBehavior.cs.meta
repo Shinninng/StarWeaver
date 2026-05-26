@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f9d6b1ca1ddd9774cb819e29fe178771
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/Behaviors/ISimpleAiBehavior.cs
+  uploadId: 894644

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 872f66740f3ca6444a66f32fe989de96
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/DecimatorComponents/Game/Camera.prefab
+  uploadId: 894644

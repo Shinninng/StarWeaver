@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 792ec520e0890a44889f75c2f29e6e9f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/Lush_Solitude_LOD1_Combined.mesh
+  uploadId: 894644

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a455bfb782033b4e85283ac2dc5680d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/Town02Roads.asset
+  uploadId: 894644

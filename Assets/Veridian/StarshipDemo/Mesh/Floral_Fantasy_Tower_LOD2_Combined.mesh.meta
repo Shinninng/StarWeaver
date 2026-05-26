@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: baafe7a0cc2cf674a959c0e4409b7566
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/Floral_Fantasy_Tower_LOD2_Combined.mesh
+  uploadId: 894644

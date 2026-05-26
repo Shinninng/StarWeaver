@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13ff2714c4f84cc4db345d98a35fab4c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/ShipConfigs/SensorySettings.asset
+  uploadId: 894644

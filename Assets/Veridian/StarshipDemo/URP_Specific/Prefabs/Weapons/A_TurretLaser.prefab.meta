@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 12f83da897848a24d867439868aa3eab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Weapons/A_TurretLaser.prefab
+  uploadId: 894644

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: bfe68059f019ce54f824e5ae5f29445d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/CoreStarship/GameStateManager.cs
+  uploadId: 894644

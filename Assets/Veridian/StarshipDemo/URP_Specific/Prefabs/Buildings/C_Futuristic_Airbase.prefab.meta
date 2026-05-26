@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c89c51d53564a94f8f2e165fb72feb7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Buildings/C_Futuristic_Airbase.prefab
+  uploadId: 894644

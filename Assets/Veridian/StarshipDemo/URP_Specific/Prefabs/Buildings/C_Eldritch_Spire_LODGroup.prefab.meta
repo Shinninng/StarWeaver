@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0572230e23069374d84bc02b3ae91dd4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Buildings/C_Eldritch_Spire_LODGroup.prefab
+  uploadId: 894644

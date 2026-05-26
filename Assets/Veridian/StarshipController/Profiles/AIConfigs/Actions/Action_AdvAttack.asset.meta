@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d971d5af19214794b8b1cba909975c7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/AIConfigs/Actions/Action_AdvAttack.asset
+  uploadId: 894644

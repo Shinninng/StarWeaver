@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2694dfc57af8f74ea12cf4a5ad67852
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/TownBuilding_02_LOD1.asset
+  uploadId: 894644

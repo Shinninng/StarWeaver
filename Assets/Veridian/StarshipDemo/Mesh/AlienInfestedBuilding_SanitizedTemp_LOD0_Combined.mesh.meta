@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c1f60a87bd0ff1428fa8aa074344dcc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/AlienInfestedBuilding_SanitizedTemp_LOD0_Combined.mesh
+  uploadId: 894644

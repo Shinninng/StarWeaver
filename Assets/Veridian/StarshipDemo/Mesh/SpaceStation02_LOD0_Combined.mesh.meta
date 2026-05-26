@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4a36ebf0322f90499427d6ccdd0396b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/SpaceStation02_LOD0_Combined.mesh
+  uploadId: 894644

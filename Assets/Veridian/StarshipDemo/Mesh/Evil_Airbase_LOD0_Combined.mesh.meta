@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb81e35118010224aa71e885617d48ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/Evil_Airbase_LOD0_Combined.mesh
+  uploadId: 894644

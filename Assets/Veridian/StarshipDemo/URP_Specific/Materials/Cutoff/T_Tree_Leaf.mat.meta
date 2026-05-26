@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e1715a0158f6d642812463b1a9db1df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Materials/Cutoff/T_Tree_Leaf.mat
+  uploadId: 894644

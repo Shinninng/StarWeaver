@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 28a117146af0be14fb48884e21cc6153
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/CoreStarship/SecondaryFlightMotion.cs
+  uploadId: 894644

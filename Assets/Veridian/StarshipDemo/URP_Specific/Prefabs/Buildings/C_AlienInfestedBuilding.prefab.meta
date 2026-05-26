@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0c9893d979c1734fa478fcc013c190f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Buildings/C_AlienInfestedBuilding.prefab
+  uploadId: 894644

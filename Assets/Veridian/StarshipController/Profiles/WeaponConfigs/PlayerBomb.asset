@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b50b018b0283d54d9c880dad7e1d41b, type: 3}
+  m_Name: PlayerBomb
+  m_EditorClassIdentifier: 
+  weaponName: Bomb
+  type: 2
+  projectilePrefab: {fileID: 5694918479664990685, guid: 5af6e42fcc71daa4692a69a7976cdc2b, type: 3}
+  refireRate: 0.3
+  maxAmmo: 10000
+  maxRange: 2000
+  accuracyFalloffStart: 0.8
+  minAccuracy: 0.5
+  projectileSpeed: 200
+  isGuided: 0
+  maxLockAngle: 30
+  maxLockDistance: 1500

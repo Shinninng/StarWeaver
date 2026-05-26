@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6164454656eb3554e892abe4ac0736e5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Weapons/A_FriendlyRocket.prefab
+  uploadId: 894644

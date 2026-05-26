@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 19e2584b0c1475649aa9ada4d0683884
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Buildings/C_FutureApartments.prefab
+  uploadId: 894644

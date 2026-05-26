@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cdff8e05d7a8d0a4d99f5d78db4d4d4f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/AIConfigs/Conditions/Condition_HomeProximityLoiter.asset
+  uploadId: 894644

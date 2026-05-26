@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b614cd546934d404dbedcd886ec7ac9c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/AlienTree_Umbra_LOD0_Combined.mesh
+  uploadId: 894644

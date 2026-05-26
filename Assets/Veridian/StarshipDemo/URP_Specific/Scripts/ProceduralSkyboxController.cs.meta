@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: e0c5c7f436a7aa5448a0c0096de63690
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Scripts/ProceduralSkyboxController.cs
+  uploadId: 894644

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a772f4e5c1a588d4fb21d1af871beab3
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/Behaviors/GoferConfigSO.cs
+  uploadId: 894644

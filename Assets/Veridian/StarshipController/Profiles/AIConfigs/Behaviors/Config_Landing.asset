@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dccdc7c17dfa1cd42b4e0666a81fd8d9, type: 3}
+  m_Name: Config_Landing
+  m_EditorClassIdentifier: Veridian.Starship.AI:Veridian.Starship.AI:LandingConfigSO
+  SlowDownRadius: 150
+  LandingSpeed: 100
+  ArrivalTolerance: 5

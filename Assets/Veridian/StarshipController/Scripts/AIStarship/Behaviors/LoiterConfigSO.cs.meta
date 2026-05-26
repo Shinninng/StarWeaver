@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7ab370c525216cb409fac3af870f43ad
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/Behaviors/LoiterConfigSO.cs
+  uploadId: 894644

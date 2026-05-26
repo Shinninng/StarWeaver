@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c516c2927698b6e4396afe94bdef3548
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Weapons/A_FriendlyAILaser.prefab
+  uploadId: 894644

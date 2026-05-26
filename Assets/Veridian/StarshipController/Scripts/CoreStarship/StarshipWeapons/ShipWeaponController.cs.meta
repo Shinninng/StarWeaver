@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f2a6d331f7b3e2044b2aec803365f169
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/CoreStarship/StarshipWeapons/ShipWeaponController.cs
+  uploadId: 894644

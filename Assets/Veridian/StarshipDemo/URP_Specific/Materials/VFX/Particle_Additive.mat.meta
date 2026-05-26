@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24896af98de5e164ba41bbe6032c655c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Materials/VFX/Particle_Additive.mat
+  uploadId: 894644

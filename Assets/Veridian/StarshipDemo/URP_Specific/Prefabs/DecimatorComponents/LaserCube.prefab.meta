@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 44745e78681ca6d43ad1242634b1ae5d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/DecimatorComponents/LaserCube.prefab
+  uploadId: 894644

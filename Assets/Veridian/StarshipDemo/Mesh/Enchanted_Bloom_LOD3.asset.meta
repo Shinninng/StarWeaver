@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbf9aec289e08514f8be63869c9d541a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/Enchanted_Bloom_LOD3.asset
+  uploadId: 894644

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7d3c526d1761644387948f0b8a9140d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/VFX/A_Impact_1.prefab
+  uploadId: 894644

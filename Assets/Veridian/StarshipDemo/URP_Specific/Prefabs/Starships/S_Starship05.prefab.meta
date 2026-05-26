@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 275dba69c5fa604438ea0f5530b3bff9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Starships/S_Starship05.prefab
+  uploadId: 894644

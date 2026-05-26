@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 471db87aad2e2ea4e9db5c41dae238a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: UnityMeshSimplifierLODAsset
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/Tree2_LOD1.mesh
+  uploadId: 894644

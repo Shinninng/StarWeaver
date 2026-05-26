@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f20b7370437177a4daddecf9020336a7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Nature/R_Rock1.prefab
+  uploadId: 894644

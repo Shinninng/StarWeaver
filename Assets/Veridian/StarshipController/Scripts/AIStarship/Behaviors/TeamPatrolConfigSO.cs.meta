@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 3fbf112dd0fd8564fb6383cecc7164d0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/Behaviors/TeamPatrolConfigSO.cs
+  uploadId: 894644

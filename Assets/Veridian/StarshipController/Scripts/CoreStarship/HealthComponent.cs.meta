@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: bc801bb2f31016b4998ac8cf19adef3b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/CoreStarship/HealthComponent.cs
+  uploadId: 894644

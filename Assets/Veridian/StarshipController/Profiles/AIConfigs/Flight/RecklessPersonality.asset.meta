@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc7a8e2bca443a44ea5db4224ca12c6b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/AIConfigs/Flight/RecklessPersonality.asset
+  uploadId: 894644

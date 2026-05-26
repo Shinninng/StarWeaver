@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c2de43c2724bd34bbf9b31755b872ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/AIConfigs/Behaviors/Config_Takeoff.asset
+  uploadId: 894644

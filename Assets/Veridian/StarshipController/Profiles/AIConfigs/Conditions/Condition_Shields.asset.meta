@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e0a80f835fdc5942b83dfdb1ee805bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/AIConfigs/Conditions/Condition_Shields.asset
+  uploadId: 894644

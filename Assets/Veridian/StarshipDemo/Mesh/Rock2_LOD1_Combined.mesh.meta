@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48afe184719999f4b8a0ea85b3808ef0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/Mesh/Rock2_LOD1_Combined.mesh
+  uploadId: 894644

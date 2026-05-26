@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: efac121d8f495604b9a8c1ccc580975d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Materials/Water/W_WaterTerrain_01.mat
+  uploadId: 894644

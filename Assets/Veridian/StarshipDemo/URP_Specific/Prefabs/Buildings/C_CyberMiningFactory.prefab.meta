@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1a1d546d08f01bb46a87a69f17db6f4d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Buildings/C_CyberMiningFactory.prefab
+  uploadId: 894644

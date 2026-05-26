@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ccda099081c049740953016eaf871247
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Profiles/AIConfigs/Behaviors/Config_Idle.asset
+  uploadId: 894644

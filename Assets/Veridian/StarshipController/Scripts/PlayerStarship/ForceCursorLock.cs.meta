@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ab080ea1a4e368d4e86afae5bd918bd8
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Scripts/PlayerStarship/ForceCursorLock.cs
+  uploadId: 894644

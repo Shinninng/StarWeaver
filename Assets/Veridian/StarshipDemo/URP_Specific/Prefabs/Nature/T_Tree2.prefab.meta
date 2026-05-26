@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ea9f282d8c8594438bfb520b50b9981
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Nature/T_Tree2.prefab
+  uploadId: 894644

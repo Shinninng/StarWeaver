@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dde3683809be9b043b765c8eb319c56d, type: 3}
+  m_Name: Config_Guardian
+  m_EditorClassIdentifier: Veridian.Starship.AI:Veridian.Starship.AI:GuardianConfigSO
+  SlowDownRadius: 150
+  FormationOffset: {x: -50, y: 10, z: 0}
+  ArrivalTolerance: 5

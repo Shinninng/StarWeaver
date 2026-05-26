@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1a64c4c049dc55438a912654ebca2a7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/Weapons/A_EnemyLaser.prefab
+  uploadId: 894644

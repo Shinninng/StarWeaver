@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 282f748eaf4093041bb9b1af96669eb7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipDemo/URP_Specific/Prefabs/VFX/VFX_Explosion_Large.prefab
+  uploadId: 894644
