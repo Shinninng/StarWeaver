@@ -559,7 +559,6 @@ GameObject:
   - component: {fileID: 208035558}
   - component: {fileID: 208035557}
   - component: {fileID: 208035556}
-  - component: {fileID: 208035555}
   m_Layer: 3
   m_Name: PlanetCam
   m_TagString: Untagged
@@ -582,38 +581,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 167302682}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &208035555
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 208035553}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.Cinemachine::Unity.Cinemachine.CinemachineBrain
-  ShowDebugText: 1
-  ShowCameraFrustum: 1
-  IgnoreTimeScale: 0
-  WorldUpOverride: {fileID: 0}
-  ChannelMask: 32767
-  UpdateMethod: 2
-  BlendUpdateMethod: 1
-  LensModeOverride:
-    Enabled: 0
-    DefaultMode: 2
-  DefaultBlend:
-    Style: 1
-    Time: 2
-    CustomCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-  CustomBlends: {fileID: 0}
 --- !u!114 &208035556
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -698,7 +665,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.1
-  far clip plane: 5000
+  far clip plane: 9000
   field of view: 60.000004
   orthographic: 0
   orthographic size: 10
@@ -1348,7 +1315,7 @@ Camera:
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 55
+    m_Bits: 4294967295
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -2213,7 +2180,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NaveSplineFollow
   spline: {fileID: 1876778019}
-  speed: 0.007
+  speed: 0.0007
 --- !u!54 &1762468385
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2299,17 +2266,17 @@ MonoBehaviour:
       TangentIn:
         x: 0
         y: 0
-        z: -388.2444
+        z: -384.4573
       TangentOut:
         x: 0
         y: 0
-        z: 388.2444
+        z: 384.4573
       Rotation:
         value:
-          x: 0.096155755
-          y: 0.9945587
-          z: 0.0041749887
-          w: 0.039870296
+          x: 0.09455371
+          y: 0.9881354
+          z: 0.0137006035
+          w: 0.12025149
     - Position:
         x: -351.83002
         y: 216.30002
@@ -2317,143 +2284,143 @@ MonoBehaviour:
       TangentIn:
         x: 0
         y: 0
-        z: -68.45009
+        z: -110.65954
       TangentOut:
         x: 0
         y: 0
-        z: 68.45009
+        z: 110.65954
       Rotation:
         value:
-          x: -0.03808251
-          y: 0.9695657
-          z: -0.21684454
-          w: -0.1071007
+          x: 0.10905199
+          y: 0.9319463
+          z: -0.18252431
+          w: -0.29371506
     - Position:
-        x: -229.33
-        y: 51.600006
-        z: -335.9336
+        x: -315.33002
+        y: 36.600006
+        z: -443.9336
       TangentIn:
         x: 0
         y: 0
-        z: -383.79068
+        z: -457.1299
       TangentOut:
         x: 0
         y: 0
-        z: 383.79068
+        z: 457.1299
       Rotation:
         value:
-          x: 0.0040422417
-          y: 0.96602774
-          z: -0.10226546
-          w: 0.23730949
+          x: -0.0022049851
+          y: 0.9438863
+          z: -0.101905234
+          w: 0.31414822
     - Position:
-        x: 1383.67
-        y: 216.6
-        z: 297.19922
+        x: 1399.67
+        y: 146.6
+        z: -232.9336
       TangentIn:
         x: 0
         y: 0
-        z: -2009.596
+        z: -1502.8813
       TangentOut:
         x: 0
         y: 0
-        z: 2009.596
+        z: 1502.8813
       Rotation:
         value:
-          x: -0.07821643
-          y: 0.27424613
-          z: 0.031534024
-          w: 0.9579545
+          x: -0.097219266
+          y: 0.25707677
+          z: 0.037969187
+          w: 0.96073836
     - Position:
-        x: 3997.67
-        y: 1638.6
-        z: 8089.199
+        x: 2414.67
+        y: 1414.6
+        z: 6291.0664
       TangentIn:
         x: 0
         y: 0
-        z: -2056.165
+        z: -2055.4067
       TangentOut:
         x: 0
         y: 0
-        z: 2056.165
+        z: 2055.4067
       Rotation:
         value:
-          x: -0.07761408
-          y: -0.03346167
-          z: -0.014067722
-          w: 0.99632245
+          x: -0.054480188
+          y: -0.11471872
+          z: -0.0059982776
+          w: 0.99188477
     - Position:
-        x: 236.67
-        y: 1305.6
-        z: 9656.199
+        x: -1140.33
+        y: 767.6
+        z: 9046.066
       TangentIn:
         x: 0
         y: 0
-        z: -1796.4133
+        z: -1524.7312
       TangentOut:
         x: 0
         y: 0
-        z: 1796.4133
+        z: 1524.7312
       Rotation:
         value:
-          x: -0.11422192
-          y: 0.77902454
-          z: -0.09894426
-          w: -0.6085098
+          x: 0.1307281
+          y: -0.68379766
+          z: 0.14816017
+          w: 0.70240974
     - Position:
-        x: -3424.5518
-        y: -487.40002
-        z: 7666.0938
+        x: -4088.33
+        y: -768.4
+        z: 6923.0664
       TangentIn:
         x: 0
         y: 0
-        z: -1025.4873
+        z: -1599.5328
       TangentOut:
         x: 0
         y: 0
-        z: 1025.4873
+        z: 1599.5328
       Rotation:
         value:
-          x: -0.074685395
-          y: 0.9211924
-          z: -0.15116389
-          w: -0.3506793
+          x: -0.075833
+          y: 0.98839515
+          z: -0.0063976315
+          w: -0.13146651
     - Position:
-        x: -3823.1348
-        y: -487.40005
-        z: 5289.295
+        x: -3764.33
+        y: -1.3999939
+        z: 1716.0664
       TangentIn:
         x: 0
         y: 0
-        z: -1046.7852
+        z: -1278.0986
       TangentOut:
         x: 0
         y: 0
-        z: 1046.7852
+        z: 1278.0986
       Rotation:
         value:
-          x: -0.020618822
-          y: 0.99587244
-          z: 0.041998807
-          w: 0.07777541
+          x: -0.011797033
+          y: 0.98459584
+          z: 0.009216626
+          w: 0.1742038
     - Position:
-        x: -2936.1663
-        y: -487.40002
-        z: 1353.2246
+        x: -2308.33
+        y: -872.4
+        z: 20.066406
       TangentIn:
         x: 0
         y: 0
-        z: -1543.5988
+        z: -730.3025
       TangentOut:
         x: 0
         y: 0
-        z: 1543.5988
+        z: 730.3025
       Rotation:
         value:
-          x: -0.04997044
-          y: 0.9858823
-          z: -0.016066244
-          w: 0.15899964
+          x: -0.031076688
+          y: 0.9385261
+          z: -0.13138053
+          w: 0.31771386
     - Position:
         x: -464.5141
         y: -487.3999
@@ -2461,17 +2428,17 @@ MonoBehaviour:
       TangentIn:
         x: 0
         y: 0
-        z: -1958.4059
+        z: -1776.6665
       TangentOut:
         x: 0
         y: 0
-        z: 1958.4059
+        z: 1776.6665
       Rotation:
         value:
-          x: -0.051166248
-          y: 0.9390023
-          z: -0.016724717
-          w: 0.33967212
+          x: -0.06433253
+          y: 0.94193316
+          z: 0.021835787
+          w: 0.3288562
     - Position:
         x: 3798.2998
         y: -487.39993
@@ -2479,17 +2446,17 @@ MonoBehaviour:
       TangentIn:
         x: 0
         y: 0
-        z: -2543.8186
+        z: -2594.7156
       TangentOut:
         x: 0
         y: 0
-        z: 2543.8186
+        z: 2594.7156
       Rotation:
         value:
-          x: -0.000441236
-          y: 0.9679069
-          z: -0.00049526745
-          w: 0.25130844
+          x: 0.0015341834
+          y: 0.9667409
+          z: -0.008037865
+          w: 0.2556269
     - Position:
         x: 6440.67
         y: -487.4
@@ -2680,12 +2647,12 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1939717915}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d4dc227cb125b8c46a2b87a3b26bd749, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Orbit
-  IsElipticalOrbit: 0
+  IsElipticalOrbit: 1
   showOrbits: 1
   showForces: 1
   showVelocities: 1
