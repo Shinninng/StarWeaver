@@ -7,12 +7,26 @@ public class NaveSplineFollow : MonoBehaviour
     [Range(0f, 0.2f)]
     public float speed = 0.05f;
 
+    // Evento al terminar
+    public System.Action OnSplineTerminado;
+
     private float t = 0f;
+    private bool terminado = false;
 
     void FixedUpdate()
     {
+        if (terminado) return;
+
         t += speed * Time.fixedDeltaTime;
-        t = Mathf.Repeat(t, 1f);
+
+        if (t >= 1f)
+        {
+            t = 1f;
+            terminado = true;
+            // Notifica que termino
+            OnSplineTerminado?.Invoke();
+            return;
+        }
 
         Vector3 pos = spline.transform.TransformPoint(
             spline.Spline.EvaluatePosition(t)
