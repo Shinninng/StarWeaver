@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 9671d8e89a049744ba6b11ec756432b6
-AssetOrigin:
-  serializedVersion: 1
-  productId: 327040
-  packageName: Atmospheric Starship Controller
-  packageVersion: 1.03
-  assetPath: Assets/Veridian/StarshipController/Scripts/CoreStarship/StarshipWeapons/StationaryTurretAI.cs
-  uploadId: 894644

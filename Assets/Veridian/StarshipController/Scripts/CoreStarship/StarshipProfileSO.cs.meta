@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 28a5c4a5bc8441743b63aa430bb358cd
-AssetOrigin:
-  serializedVersion: 1
-  productId: 327040
-  packageName: Atmospheric Starship Controller
-  packageVersion: 1.03
-  assetPath: Assets/Veridian/StarshipController/Scripts/CoreStarship/StarshipProfileSO.cs
-  uploadId: 894644

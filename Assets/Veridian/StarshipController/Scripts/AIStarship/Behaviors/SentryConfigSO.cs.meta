@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: dc937d1f199ef0f4982a300818f00371
-AssetOrigin:
-  serializedVersion: 1
-  productId: 327040
-  packageName: Atmospheric Starship Controller
-  packageVersion: 1.03
-  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/Behaviors/SentryConfigSO.cs
-  uploadId: 894644

@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 08114fc9c2ef9e04cbd89f953bf8dc8a
-AssetOrigin:
-  serializedVersion: 1
-  productId: 327040
-  packageName: Atmospheric Starship Controller
-  packageVersion: 1.03
-  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/SituationalAwarenessSystem.cs
-  uploadId: 894644

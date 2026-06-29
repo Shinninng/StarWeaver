@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 2045a0950d0dfb049a4aa2c9972ef967
-AssetOrigin:
-  serializedVersion: 1
-  productId: 327040
-  packageName: Atmospheric Starship Controller
-  packageVersion: 1.03
-  assetPath: Assets/Veridian/StarshipController/Scripts/CoreStarship/Enums.cs
-  uploadId: 894644

@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: e067c1823c98b2a4ca5e6035f5cc4a16
-AssetOrigin:
-  serializedVersion: 1
-  productId: 327040
-  packageName: Atmospheric Starship Controller
-  packageVersion: 1.03
-  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/Conditions/HealthConditionSO.cs
-  uploadId: 894644

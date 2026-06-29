@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 11cef8ab26451d84eab16710e9dbd77a
-AssetOrigin:
-  serializedVersion: 1
-  productId: 327040
-  packageName: Atmospheric Starship Controller
-  packageVersion: 1.03
-  assetPath: Assets/Veridian/StarshipController/Scripts/CoreStarship/StarshipWeapons/InterceptionHelper.cs
-  uploadId: 894644

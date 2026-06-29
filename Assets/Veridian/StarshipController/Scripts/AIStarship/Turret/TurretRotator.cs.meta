@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 4392dc1d0a4a4444999ee461dd0c86c7
-AssetOrigin:
-  serializedVersion: 1
-  productId: 327040
-  packageName: Atmospheric Starship Controller
-  packageVersion: 1.03
-  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/Turret/TurretRotator.cs
-  uploadId: 894644

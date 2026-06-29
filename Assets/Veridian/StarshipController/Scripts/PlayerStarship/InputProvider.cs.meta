@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: aa7c6a0bed757a1468ac373557e34300
-AssetOrigin:
-  serializedVersion: 1
-  productId: 327040
-  packageName: Atmospheric Starship Controller
-  packageVersion: 1.03
-  assetPath: Assets/Veridian/StarshipController/Scripts/PlayerStarship/InputProvider.cs
-  uploadId: 894644

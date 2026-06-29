@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: a6f90ef5fcb3a7b4692017c2efd6124a
-AssetOrigin:
-  serializedVersion: 1
-  productId: 327040
-  packageName: Atmospheric Starship Controller
-  packageVersion: 1.03
-  assetPath: Assets/Veridian/StarshipController/Scripts/AIStarship/Conditions/ProximityConditionSO.cs
-  uploadId: 894644

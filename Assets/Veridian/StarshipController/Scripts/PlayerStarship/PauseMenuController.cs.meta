@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 23ddcdf54c6952249bfb14c14d5146f6
-AssetOrigin:
-  serializedVersion: 1
-  productId: 327040
-  packageName: Atmospheric Starship Controller
-  packageVersion: 1.03
-  assetPath: Assets/Veridian/StarshipController/Scripts/PlayerStarship/PauseMenuController.cs
-  uploadId: 894644

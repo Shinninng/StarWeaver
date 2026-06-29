@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: fc3c8b99421e1694eb46bedb25caa5a0
-AssetOrigin:
-  serializedVersion: 1
-  productId: 327040
-  packageName: Atmospheric Starship Controller
-  packageVersion: 1.03
-  assetPath: Assets/Veridian/StarshipController/Scripts/CoreStarship/StarshipWeapons/GuidedRocketProjectile.cs
-  uploadId: 894644
